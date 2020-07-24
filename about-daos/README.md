@@ -8,3 +8,5 @@ A DAO stands for Decentralised Autonomous Organisation. FBFly DAOs allow Faceboo
 
 _Once created, a DAO cannot be deleted by anyone._
 
+\*\*\*\*
+
